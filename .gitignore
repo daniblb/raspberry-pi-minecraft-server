@@ -1,0 +1,12 @@
+world/
+world_nether/
+world_the_end/
+logs/
+*.jar
+crash-reports/
+plugins/
+ops.json
+whitelist.json
+banned-ips.json
+banned-players.json
+eula.txt
